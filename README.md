@@ -1,1 +1,2 @@
-# Lab3-Solution
+# OOOP Introduction Lab
+## This repo is to demonstrate inheritance and composition
