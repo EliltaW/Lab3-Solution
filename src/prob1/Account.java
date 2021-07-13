@@ -24,7 +24,7 @@ class Account {
 		this.balance += deposit;
 	}
 
-    //Make withdarwal
+    //Withdarwal with amount
 	public boolean makeWithdrawal(double amount) {
 		if(amount <= balance) {
 			this.balance -=amount;
